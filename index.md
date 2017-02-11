@@ -17,6 +17,7 @@ En este archivo explicaremos cómo hacer de LaTeX un entorno ms accesible con pr
 
 Puedes descargar el archivo [aquí]( )
 
+Nuevo
 
 ### Licencia
 
