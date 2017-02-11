@@ -11,13 +11,9 @@ Puedes descargar el archivo [aquí](https://github.com/Salvichu/Software-for-Mat
 
 ## LaTeX y Software Libre
 
-![Image](https://github.com/Salvichu/Software-for-Mathematics/blob/master/NwNPU.png)
-
 En este archivo explicaremos cómo hacer de LaTeX un entorno ms accesible con programas de software libre.
 
 Puedes descargar el archivo [aquí]( )
-
-Nuevo
 
 ### Licencia
 
