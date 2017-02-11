@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+# Software para matemáticas
 
-You can use the [editor on GitHub](https://github.com/Salvichu/Master/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En esta web ofrecemos diferentes materiales creados por el autor para el Máster en Matemáticas, durante el curso académico 2016-2017.
+
+## Ubuntu: Instalación y Personalización
+
+En este archivo explicamos cómo instalar Ubuntu en un sistema operativo y algunas características generales con las que hemos personalizado la apariencia.
+
+Puedes descargar el archivo [aquí]()
+
 
 ### Markdown
 
