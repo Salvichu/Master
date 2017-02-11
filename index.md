@@ -20,4 +20,4 @@ Puedes descargar el archivo [aquí]( )
 
 ### Licencia
 
-Esta web tiene una licencia GNU v3.0.
+Esta web tiene una [licencia GNU v3.0](https://github.com/Salvichu/Software-for-Mathematics/LICENSE).
