@@ -9,13 +9,13 @@ En este archivo explicamos cómo instalar Ubuntu en un sistema operativo y algun
 
 Puedes descargar el archivo [aquí](https://github.com/Salvichu/Software-for-Mathematics/blob/master/Informe%20Instalación%20Ubuntu%20.pdf)
 
-## Ubuntu: Instalación y Personalización
+## LaTeX y Software Libre
 
 ![Image](https://github.com/Salvichu/Software-for-Mathematics/blob/master/NwNPU.png)
 
-En este archivo explicamos cómo instalar Ubuntu en un sistema operativo y algunas características generales con las que hemos personalizado la apariencia.
+En este archivo explicaremos cómo hacer de LaTeX un entorno ms accesible con programas de software libre.
 
-Puedes descargar el archivo [aquí](https://github.com/Salvichu/Software-for-Mathematics/blob/master/Informe%20Instalación%20Ubuntu%20.pdf)
+Puedes descargar el archivo [aquí]( )
 
 
 ### Licencia
