@@ -7,7 +7,7 @@ En esta web ofrecemos diferentes materiales creados por el autor para el Máster
 
 En este archivo explicamos cómo instalar Ubuntu en un sistema operativo y algunas características generales con las que hemos personalizado la apariencia.
 
-Puedes descargar el archivo [aquí]()
+Puedes descargar el archivo [aquí](https://github.com/Salvichu/Software-for-Mathematics/blob/master/Informe%20Instalación%20Ubuntu%20.pdf)
 
 
 ### Markdown
