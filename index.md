@@ -13,7 +13,7 @@ Puedes descargar el archivo [aquí](https://github.com/Salvichu/Software-for-Mat
 
 En este archivo explicaremos cómo hacer de LaTeX un entorno ms accesible con programas de software libre.
 
-Puedes descargar el archivo [aquí]( ).
+Puedes descargar el archivo [aquí](https://github.com/Salvichu/Software-for-Mathematics/blob/master/Trabajo%20Latex%20-%20Software%20Libre.pdf).
 
 ### Licencia
 
